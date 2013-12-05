@@ -1,0 +1,4 @@
+http/
+*~
+*.box
+packer_cache/
